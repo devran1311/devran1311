@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devran1311
+- 👋 Hi, I’m Devran 
 - 👀 I’m interested in Java, Data Science and Machine learning
 - 🌱 I’m currently learning Python, ML and DL 
 - 💞️ I’m looking to collaborate on Data Science Projects related to NLP
