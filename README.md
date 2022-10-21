@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devran 
-- 👀 I’m interested in Java, Data Science and Machine learning
-- 🌱 I’m currently learning Python, ML and DL 
-- 💞️ I’m looking to collaborate on Data Science Projects related to NLP
+- 👀 I’m interested in Java Backend Development
+- 🌱 I’m currently learning Spring and Spring Boot frameworks of Java 
+- 💞️ I’m looking to collaborate diverse Java backend projects
 - 📫 How to reach me - drop an email at devransarkar98@gmail.com
 
 <!---
